@@ -83,22 +83,40 @@ To become a **professional full stack software engineer** and contribute to impa
 
 # 🚀 Projects
 
+---
+
 ## 🌿 Ignite Well Fitness Website
 
-💻 **Technologies Used**  
-HTML, CSS, JavaScript, Bootstrap
+💻 **Tech:** HTML, CSS, JavaScript, Bootstrap
 
-✨ **Key Features**
+✨ **Features**
 
-- Habit tracking wellness platform  
-- Interactive user interface using JavaScript  
-- Fully responsive design  
+• Habit tracking wellness platform  
+• Interactive UI using JavaScript  
+• Fully responsive design  
 
 ### 🔗 Project Links
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-green?style=for-the-badge&logo=google-chrome)](https://nayanamali.github.io/ignite-well-fitness-website/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Website-green?style=for-the-badge&logo=google-chrome)](https://nayanamali.github.io/Ignitewell/)
 
-[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/nayanamali/ignite-well-fitness-website)
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/nayanamali/Ignitewell)
+
+---
+
+## 💇 Salon Appointment Booking System
+
+💻 **Tech:** Java, JSP, Servlets, JDBC, MySQL
+
+✨ **Features**
+
+• Secure Login System  
+• Appointment Booking  
+• Admin Dashboard  
+• MVC Architecture  
+
+### 🔗 Project Links
+
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/SahilSatishNikam/Salon_System_Project)
 
 ---
 
