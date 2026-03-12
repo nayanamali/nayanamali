@@ -14,26 +14,25 @@
 
 # 👩‍💻 About Me
 
-💻 I am a passionate **Java Full Stack Developer** based in **Pune, India**.
+💻 Passionate **Java Full Stack Developer** based in **Pune, India**.
 
-I enjoy building **scalable web applications** using modern backend technologies and continuously improving my development skills.
+I enjoy developing **scalable and efficient web applications** and continuously improving my skills in modern backend technologies.
 
-⚡ **Core Skills**
+### ⚡ Core Skills
 
-- Java Development  
-- Spring Boot & MVC Architecture  
-- REST API Development  
-- Web Application Development  
+* Java Development
+* Spring Boot & MVC Architecture
+* REST API Development
+* Web Application Development
 
-🌱 **Currently Learning**
+### 🌱 Currently Learning
 
-- Microservices Architecture  
-- Advanced Spring Boot  
-- Cloud Deployment  
+* Microservices Architecture
+* Advanced Spring Boot
+* Cloud Deployment
 
-🎯 **Career Goal**
-
-To become a **professional full stack software engineer** and contribute to impactful software solutions.
+🎯 **Career Goal:**
+To grow as a **professional full stack software engineer** and contribute to impactful software solutions.
 
 ---
 
@@ -41,8 +40,8 @@ To become a **professional full stack software engineer** and contribute to impa
 
 ### Bachelor of Computer Applications (BCA)
 
-📍 North Maharashtra University, Jalgaon  
-📅 2022 – 2025  
+📍 North Maharashtra University, Jalgaon
+📅 2022 – 2025
 ⭐ CGPA: **9.45**
 
 ---
@@ -56,23 +55,17 @@ To become a **professional full stack software engineer** and contribute to impa
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 
----
-
-### ⚙️ Frameworks & Backend Technologies
+### ⚙️ Frameworks & Backend
 
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-
----
 
 ### 🗄 Databases
 
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
 
----
-
-### 🧰 Development Tools
+### 🧰 Tools
 
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
@@ -83,46 +76,42 @@ To become a **professional full stack software engineer** and contribute to impa
 
 # 🚀 Projects
 
----
-
 ## 🌿 Ignite Well Fitness Website
 
-💻 **Tech:** HTML, CSS, JavaScript, Bootstrap
+💻 **Technologies:** HTML, CSS, JavaScript, Bootstrap
 
 ✨ **Features**
 
-• Habit tracking wellness platform  
-• Interactive UI using JavaScript  
-• Fully responsive design  
+* Habit tracking wellness platform
+* Interactive UI using JavaScript
+* Fully responsive design
 
 ### 🔗 Project Links
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Website-green?style=for-the-badge&logo=google-chrome)](https://nayanamali.github.io/Ignitewell/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-green?style=for-the-badge\&logo=google-chrome)](https://nayanamali.github.io/Ignitewell/)
 
-[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/nayanamali/Ignitewell)
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge\&logo=github)](https://github.com/nayanamali/Ignitewell)
 
 ---
 
 ## 💇 Salon Appointment Booking System
 
-💻 **Tech:** Java, JSP, Servlets, JDBC, MySQL
+💻 **Technologies:** Java, JSP, Servlets, JDBC, MySQL
 
 ✨ **Features**
 
-• Secure Login System  
-• Appointment Booking  
-• Admin Dashboard  
-• MVC Architecture  
+* Secure login & authentication system
+* Appointment booking functionality
+* Admin dashboard for management
+* Built using MVC architecture
 
 ### 🔗 Project Links
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Website-green?style=for-the-badge&logo=google-chrome)]([https://nayanamali.github.io/Ignitewell/](https://github.com/SahilSatishNikam/Salon_System_Project))
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-green?style=for-the-badge\&logo=google-chrome)](https://github.com/SahilSatishNikam/Salon_System_Project)
 
-[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)]([https://github.com/nayanamali/Ignitewell](https://github.com/SahilSatishNikam/Salon_System_Project))
-
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge\&logo=github)](https://github.com/SahilSatishNikam/Salon_System_Project)
 
 ---
-
 
 # 📊 GitHub Statistics
 
@@ -158,11 +147,11 @@ To become a **professional full stack software engineer** and contribute to impa
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nayana-mali-b504a8290/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/nayana-mali-b504a8290/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/nayanamali)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge\&logo=github)](https://github.com/nayanamali)
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:malinayana23@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:malinayana23@gmail.com)
 
 </div>
 
