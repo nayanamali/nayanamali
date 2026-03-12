@@ -20,18 +20,19 @@ I enjoy developing **scalable and efficient web applications** and continuously 
 
 ### ⚡ Core Skills
 
-* Java Development
-* Spring Boot & MVC Architecture
-* REST API Development
-* Web Application Development
+- Java Development
+- Spring Boot & MVC Architecture
+- REST API Development
+- Web Application Development
 
 ### 🌱 Currently Learning
 
-* Microservices Architecture
-* Advanced Spring Boot
-* Cloud Deployment
+- Microservices Architecture
+- Advanced Spring Boot
+- Cloud Deployment
 
-🎯 **Career Goal:**
+🎯 **Career Goal**
+
 To grow as a **professional full stack software engineer** and contribute to impactful software solutions.
 
 ---
@@ -40,8 +41,8 @@ To grow as a **professional full stack software engineer** and contribute to imp
 
 ### Bachelor of Computer Applications (BCA)
 
-📍 North Maharashtra University, Jalgaon
-📅 2022 – 2025
+📍 North Maharashtra University, Jalgaon  
+📅 2022 – 2025  
 ⭐ CGPA: **9.45**
 
 ---
@@ -82,15 +83,15 @@ To grow as a **professional full stack software engineer** and contribute to imp
 
 ✨ **Features**
 
-* Habit tracking wellness platform
-* Interactive UI using JavaScript
-* Fully responsive design
+- Habit tracking wellness platform
+- Interactive UI using JavaScript
+- Fully responsive design
 
 ### 🔗 Project Links
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-green?style=for-the-badge\&logo=google-chrome)](https://nayanamali.github.io/Ignitewell/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-green?style=for-the-badge&logo=google-chrome)](https://nayanamali.github.io/Ignitewell/)
 
-[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge\&logo=github)](https://github.com/nayanamali/Ignitewell)
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/nayanamali/Ignitewell)
 
 ---
 
@@ -100,16 +101,14 @@ To grow as a **professional full stack software engineer** and contribute to imp
 
 ✨ **Features**
 
-* Secure login & authentication system
-* Appointment booking functionality
-* Admin dashboard for management
-* Built using MVC architecture
+- Secure login & authentication system
+- Appointment booking functionality
+- Admin dashboard for management
+- Built using MVC architecture
 
 ### 🔗 Project Links
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-green?style=for-the-badge\&logo=google-chrome)](https://github.com/SahilSatishNikam/Salon_System_Project)
-
-[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge\&logo=github)](https://github.com/SahilSatishNikam/Salon_System_Project)
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/SahilSatishNikam/Salon_System_Project)
 
 ---
 
@@ -147,11 +146,11 @@ To grow as a **professional full stack software engineer** and contribute to imp
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/nayana-mali-b504a8290/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nayana-mali-b504a8290/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge\&logo=github)](https://github.com/nayanamali)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/nayanamali)
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:malinayana23@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:malinayana23@gmail.com)
 
 </div>
 
