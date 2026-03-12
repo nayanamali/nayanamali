@@ -1,97 +1,152 @@
-# Hi 👋 I'm Nayana Mali
+# 👋 Hi, I'm **Nayana Mali**
 
-💻 **Java Full Stack Developer**
+💻 **Java Developer | Java Full Stack Developer**
 📍 Pune, India
+📞 7798031294
+📧 [malinayana23@gmail.com](mailto:malinayana23@gmail.com)
+
+🔗 LinkedIn | GitHub
 
 ---
 
-## 👩‍💻 About Me
+# 🚀 Career Objective
 
-I am a passionate **Java Full Stack Developer** with hands-on experience in building web applications using **Core Java, Spring Boot, REST APIs, and MVC architecture**. I enjoy solving problems and developing scalable backend systems.
+Java Full Stack Developer with hands-on experience in **Core Java, Spring Boot, RESTful APIs, and MVC architecture**.
+Basic understanding of **Microservices architecture and scalable backend development**.
 
-I am currently enhancing my skills in **full stack development** and exploring modern backend technologies to build secure and high-performance applications.
+Passionate about building **secure, scalable, and high-performance web applications**.
 
 ---
 
-## 🚀 Skills
+# 🧑‍💻 Professional Training
 
-### Backend
+### Java Full Stack Development Training Program — *2025 (Ongoing)*
+
+🏫 **Fortune Cloud Technology, Pune**
+
+### Technologies Covered
 
 * Core Java
 * JDBC
+* SQL
 * Spring Boot
-* RESTful APIs
-* MVC Architecture
-
-### Frontend
-
-* HTML
-* CSS
-* JavaScript
 * JSP
 * Servlets
 
-### Database
+### Additional Learning
+
+* Built **REST APIs & CRUD web applications**
+* Frontend development using **HTML, CSS, JavaScript, Bootstrap**
+* **Git/GitHub** for version control
+* Developed **mini and major full-stack projects**
+
+---
+
+# 🛠 Technical Skills
+
+## Programming Languages
+
+* Java
+* HTML5
+* CSS3
+* JavaScript
+
+## Java Concepts
+
+* Object-Oriented Programming (OOP)
+* Exception Handling
+* Collections Framework
+* Multithreading
+
+## Frameworks
+
+* Spring Boot
+* Spring MVC
+
+## Backend Technologies
+
+* RESTful APIs
+* Microservices (Basic Knowledge)
+* JSP
+* Servlets
+* JDBC
+
+## Databases
 
 * MySQL
-* SQL
+* SQLite
 
-### Tools & Technologies
+## Tools / IDEs
 
-* Git & GitHub
-* Maven
-* Eclipse / IntelliJ IDEA
-* Postman
-
----
-
-## 📚 Training
-
-**Java Full Stack Development Program (2025 – Ongoing)**
-Fortune Cloud Technology, Pune
-
-Technologies Covered:
-
-* Core Java
-* JDBC
-* SQL
-* Spring Boot
-* JSP & Servlets
-* HTML, CSS, JavaScript
+* Eclipse
+* VS Code
+* Apache Tomcat
+* Git
+* GitHub
 
 ---
 
-## 📂 Projects
+# 📂 Projects
 
-Here are some projects I worked on during my training:
+## 🌿 Ignite Well Fitness Website
 
-### 1️⃣ User Registration System
+**Tech Stack:** HTML, CSS, JavaScript, Bootstrap
 
-* Built using **Spring MVC**
-* Supports user registration and data storage
-* Connected with MySQL database
-
-### 2️⃣ REST API CRUD Application
-
-* Developed using **Spring Boot**
-* Implemented Create, Read, Update, Delete operations
-* Tested APIs using Postman
-
-### 3️⃣ Student Management System
-
-* Java-based CRUD application
-* Uses JDBC and MySQL
+* Led a **4-member team** to develop a **responsive habit-tracking wellness platform**
+* Designed **interactive UI elements** using JavaScript and Bootstrap
+* Implemented **habit-tracking workflows and dynamic DOM updates**
+* Managed collaboration using **Git/GitHub**
+* Conducted **code reviews and project coordination**
 
 ---
 
-## 📫 Contact Me
+## 💇 Salon Appointment Booking System
 
-📧 Email: [malinayana23@gmail.com](mailto:malinayana23@gmail.com)
-📍 Location: Pune, India
+**Tech Stack:** Java, JSP, Servlets, JDBC, MySQL, Bootstrap
 
-💼 LinkedIn: Add your LinkedIn link here
-💻 GitHub: Add your GitHub profile link here
+* Developed a **full-stack Java web application**
+* Implemented **MVC architecture and CRUD operations**
+* Built **secure login and appointment booking system**
+* Developed **admin dashboard**
+* Integrated **MySQL database using JDBC**
+* Designed **responsive user interface**
+* Managed **therapist schedules and customer feedback**
 
 ---
 
-⭐ *Always learning and improving as a developer.*
+# 🎓 Education
+
+### Bachelor of Computer Applications (BCA)
+
+📍 **North Maharashtra University, Jalgaon**
+📅 **2022 – 2025**
+⭐ **CGPA: 9.45**
+
+---
+
+# 📜 Certifications
+
+✔ **HTML Step-by-Step Course** — Infosys Springboard (2024)
+
+✔ **Build a Free Website with WordPress** — Coursera Project Network (2024)
+
+---
+
+# 🌟 Soft Skills
+
+* Problem Solving
+* Communication
+* Team Collaboration
+* Adaptability
+* Time Management
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: **[malinayana23@gmail.com](mailto:malinayana23@gmail.com)**
+📍 Location: **Pune, India**
+
+---
+
+⭐ *Passionate about learning new technologies and building real-world applications.*
