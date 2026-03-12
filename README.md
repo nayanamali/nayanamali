@@ -1,116 +1,33 @@
+<div align="center">
+
 # 👋 Hi, I'm **Nayana Mali**
 
-💻 **Java Developer | Java Full Stack Developer**
-📍 Pune, India
-📞 7798031294
-📧 [malinayana23@gmail.com](mailto:malinayana23@gmail.com)
+<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;REST+API+Developer;Passionate+About+Building+Web+Applications" />
 
-🔗 LinkedIn | GitHub
+</div>
 
 ---
 
-# 🚀 Career Objective
+# 🎬 Portfolio Introduction
 
-Java Full Stack Developer with hands-on experience in **Core Java, Spring Boot, RESTful APIs, and MVC architecture**.
-Basic understanding of **Microservices architecture and scalable backend development**.
+<div align="center">
 
-Passionate about building **secure, scalable, and high-performance web applications**.
+<video src="https://user-images.githubusercontent.com/74038190/212749695-3dfb3f3c-fbb9-41f5-9b51-0f8e02c6e0f7.mp4" autoplay loop muted width="900"/>
 
----
-
-# 🧑‍💻 Professional Training
-
-### Java Full Stack Development Training Program — *2025 (Ongoing)*
-
-🏫 **Fortune Cloud Technology, Pune**
-
-### Technologies Covered
-
-* Core Java
-* JDBC
-* SQL
-* Spring Boot
-* JSP
-* Servlets
-
-### Additional Learning
-
-* Built **REST APIs & CRUD web applications**
-* Frontend development using **HTML, CSS, JavaScript, Bootstrap**
-* **Git/GitHub** for version control
-* Developed **mini and major full-stack projects**
+</div>
 
 ---
 
-# 🛠 Technical Skills
+# 👩‍💻 About Me
 
-## Programming Languages
+✨ Passionate **Java Full Stack Developer** from **Pune, India**
 
-* Java
-* HTML5
-* CSS3
-* JavaScript
+💻 Skilled in building **scalable backend applications** using
+Java, Spring Boot, REST APIs, and MVC Architecture.
 
-## Java Concepts
+🚀 Currently learning **Microservices & Advanced Backend Development**
 
-* Object-Oriented Programming (OOP)
-* Exception Handling
-* Collections Framework
-* Multithreading
-
-## Frameworks
-
-* Spring Boot
-* Spring MVC
-
-## Backend Technologies
-
-* RESTful APIs
-* Microservices (Basic Knowledge)
-* JSP
-* Servlets
-* JDBC
-
-## Databases
-
-* MySQL
-* SQLite
-
-## Tools / IDEs
-
-* Eclipse
-* VS Code
-* Apache Tomcat
-* Git
-* GitHub
-
----
-
-# 📂 Projects
-
-## 🌿 Ignite Well Fitness Website
-
-**Tech Stack:** HTML, CSS, JavaScript, Bootstrap
-
-* Led a **4-member team** to develop a **responsive habit-tracking wellness platform**
-* Designed **interactive UI elements** using JavaScript and Bootstrap
-* Implemented **habit-tracking workflows and dynamic DOM updates**
-* Managed collaboration using **Git/GitHub**
-* Conducted **code reviews and project coordination**
-
----
-
-## 💇 Salon Appointment Booking System
-
-**Tech Stack:** Java, JSP, Servlets, JDBC, MySQL, Bootstrap
-
-* Developed a **full-stack Java web application**
-* Implemented **MVC architecture and CRUD operations**
-* Built **secure login and appointment booking system**
-* Developed **admin dashboard**
-* Integrated **MySQL database using JDBC**
-* Designed **responsive user interface**
-* Managed **therapist schedules and customer feedback**
+🎯 Goal: Become a **Professional Full Stack Engineer**
 
 ---
 
@@ -118,35 +35,110 @@ Passionate about building **secure, scalable, and high-performance web applicati
 
 ### Bachelor of Computer Applications (BCA)
 
-📍 **North Maharashtra University, Jalgaon**
-📅 **2022 – 2025**
-⭐ **CGPA: 9.45**
+📍 North Maharashtra University, Jalgaon
+📅 2022 – 2025
+⭐ CGPA: **9.45**
 
 ---
 
-# 📜 Certifications
+# 🌌 Tech Universe
 
-✔ **HTML Step-by-Step Course** — Infosys Springboard (2024)
+<div align="center">
 
-✔ **Build a Free Website with WordPress** — Coursera Project Network (2024)
+### 💻 Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+
+### ⚙️ Backend & Frameworks
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot)
+![Spring MVC](https://img.shields.io/badge/SpringMVC-6DB33F?style=for-the-badge\&logo=spring)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+
+### 🗄 Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite)
+
+### 🧰 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge\&logo=eclipse)
+![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge\&logo=visual-studio-code)
+
+</div>
 
 ---
 
-# 🌟 Soft Skills
+# 📂 Projects
 
-* Problem Solving
-* Communication
-* Team Collaboration
-* Adaptability
-* Time Management
+## 🌿 Ignite Well Fitness Website
 
----
+💻 **Tech:** HTML, CSS, JavaScript, Bootstrap
 
-# 📫 Connect With Me
+✨ Features
 
-📧 Email: **[malinayana23@gmail.com](mailto:malinayana23@gmail.com)**
-📍 Location: **Pune, India**
+* Habit tracking wellness platform
+* Interactive UI using JavaScript
+* Responsive design
+* Team collaboration using GitHub
 
 ---
 
-⭐ *Passionate about learning new technologies and building real-world applications.*
+## 💇 Salon Appointment Booking System
+
+💻 **Tech:** Java, JSP, Servlets, JDBC, MySQL
+
+✨ Features
+
+* Full-stack web application
+* Secure login system
+* Appointment booking system
+* Admin dashboard
+* MVC architecture
+
+---
+
+# 📊 Contribution Exploring
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="170">
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_LINK)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail)](mailto:malinayana23@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+✨ **Always Learning | Always Building | Always Improving**
+
+</div>
