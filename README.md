@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Nayana Mali**
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;REST+API+Developer;Passionate+About+Building+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;REST+API+Developer;Passionate+About+Building+Web+Applications" />
 
 </div>
 
