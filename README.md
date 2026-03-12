@@ -120,23 +120,6 @@ To become a **professional full stack software engineer** and contribute to impa
 
 ---
 
-## 💇 Salon Appointment Booking System
-
-💻 **Technologies Used**  
-Java, JSP, Servlets, JDBC, MySQL
-
-✨ **Key Features**
-
-- Secure login and authentication system  
-- Appointment booking functionality  
-- Admin dashboard for management  
-- Built using MVC architecture  
-
-### 🔗 Project Links
-
-[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/nayanamali)
-
----
 
 # 📊 GitHub Statistics
 
