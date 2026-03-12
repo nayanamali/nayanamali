@@ -14,23 +14,26 @@
 
 # 👩‍💻 About Me
 
-💻 Passionate **Java Full Stack Developer** from **Pune, India**
+💻 I am a passionate **Java Full Stack Developer** based in **Pune, India**.
 
-⚡ Skilled in building backend applications using
+I enjoy building **scalable web applications** using modern backend technologies and continuously improving my development skills.
 
-- Java  
-- Spring Boot  
-- REST APIs  
-- MVC Architecture  
+⚡ **Core Skills**
 
-🌱 Currently learning
+- Java Development  
+- Spring Boot & MVC Architecture  
+- REST API Development  
+- Web Application Development  
 
-- Microservices  
+🌱 **Currently Learning**
+
+- Microservices Architecture  
 - Advanced Spring Boot  
+- Cloud Deployment  
 
-🎯 Goal
+🎯 **Career Goal**
 
-Become a **Professional Software Engineer**
+To become a **professional full stack software engineer** and contribute to impactful software solutions.
 
 ---
 
@@ -46,7 +49,7 @@ Become a **Professional Software Engineer**
 
 # 🌌 Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
 ![Java](https://skillicons.dev/icons?i=java)
 ![HTML](https://skillicons.dev/icons?i=html)
@@ -55,21 +58,21 @@ Become a **Professional Software Engineer**
 
 ---
 
-### ⚙️ Frameworks & Backend
+### ⚙️ Frameworks & Backend Technologies
 
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
 ---
 
-### 🗄 Database
+### 🗄 Databases
 
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
 
 ---
 
-### 🧰 Tools
+### 🧰 Development Tools
 
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
@@ -82,30 +85,42 @@ Become a **Professional Software Engineer**
 
 ## 🌿 Ignite Well Fitness Website
 
-💻 Tech: HTML, CSS, JavaScript, Bootstrap
+💻 **Technologies Used**  
+HTML, CSS, JavaScript, Bootstrap
 
-✨ Features
+✨ **Key Features**
 
-• Habit tracking wellness platform  
-• Interactive UI using JavaScript  
-• Fully responsive design  
+- Habit tracking wellness platform  
+- Interactive user interface using JavaScript  
+- Fully responsive design  
+
+### 🔗 Project Links
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-green?style=for-the-badge&logo=google-chrome)](https://nayanamali.github.io/ignite-well-fitness-website/)
+
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/nayanamali/ignite-well-fitness-website)
 
 ---
 
 ## 💇 Salon Appointment Booking System
 
-💻 Tech: Java, JSP, Servlets, JDBC, MySQL
+💻 **Technologies Used**  
+Java, JSP, Servlets, JDBC, MySQL
 
-✨ Features
+✨ **Key Features**
 
-• Secure Login System  
-• Appointment Booking  
-• Admin Dashboard  
-• MVC Architecture  
+- Secure login and authentication system  
+- Appointment booking functionality  
+- Admin dashboard for management  
+- Built using MVC architecture  
+
+### 🔗 Project Links
+
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/nayanamali)
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -123,7 +138,7 @@ Become a **Professional Software Engineer**
 
 ---
 
-# 🏆 Top Languages
+# 🏆 Most Used Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanamali&layout=compact&theme=tokyonight"/>
 
@@ -139,11 +154,11 @@ Become a **Professional Software Engineer**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nayana-mali-b504a8290/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nayana-mali-b504a8290/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/nayanamali)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/nayanamali)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:malinayana23@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:malinayana23@gmail.com)
 
 </div>
 
