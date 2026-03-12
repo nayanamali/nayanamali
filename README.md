@@ -116,7 +116,10 @@ To become a **professional full stack software engineer** and contribute to impa
 
 ### 🔗 Project Links
 
-[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/SahilSatishNikam/Salon_System_Project)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Website-green?style=for-the-badge&logo=google-chrome)]([https://nayanamali.github.io/Ignitewell/](https://github.com/SahilSatishNikam/Salon_System_Project))
+
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)]([https://github.com/nayanamali/Ignitewell](https://github.com/SahilSatishNikam/Salon_System_Project))
+
 
 ---
 
