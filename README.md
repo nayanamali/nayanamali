@@ -2,17 +2,11 @@
 
 # 👋 Hi, I'm **Nayana Mali**
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Passionate+About+Building+Web+Applications" />
+### 🚀 Java Full Stack Developer
 
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Engineer;Building+Scalable+Web+Applications" />
 
----
-
-# 🎬 Portfolio Introduction
-
-<div align="center">
-
-<video src="https://user-images.githubusercontent.com/74038190/212749695-3dfb3f3c-fbb9-41f5-9b51-0f8e02c6e0f7.mp4" autoplay loop muted width="900"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750972-5dbf32c3-5b87-4b36-9e2c-33f47d6d9b3b.gif" width="600"/>
 
 </div>
 
@@ -20,14 +14,23 @@
 
 # 👩‍💻 About Me
 
-✨ Passionate **Java Full Stack Developer** from **Pune, India**
+💻 Passionate **Java Full Stack Developer** from **Pune, India**
 
-💻 Skilled in building **scalable backend applications** using
-Java, Spring Boot, REST APIs, and MVC Architecture.
+⚡ Skilled in building backend applications using
 
-🚀 Currently learning **Microservices & Advanced Backend Development**
+- Java  
+- Spring Boot  
+- REST APIs  
+- MVC Architecture  
 
-🎯 Goal: Become a **Professional Full Stack Engineer**
+🌱 Currently learning
+
+- Microservices  
+- Advanced Spring Boot  
+
+🎯 Goal
+
+Become a **Professional Software Engineer**
 
 ---
 
@@ -35,91 +38,100 @@ Java, Spring Boot, REST APIs, and MVC Architecture.
 
 ### Bachelor of Computer Applications (BCA)
 
-📍 North Maharashtra University, Jalgaon
-📅 2022 – 2025
+📍 North Maharashtra University, Jalgaon  
+📅 2022 – 2025  
 ⭐ CGPA: **9.45**
 
 ---
 
-# 🌌 Tech Universe
-
-<div align="center">
+# 🌌 Tech Stack
 
 ### 💻 Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
-
-### ⚙️ Backend & Frameworks
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot)
-![Spring MVC](https://img.shields.io/badge/SpringMVC-6DB33F?style=for-the-badge\&logo=spring)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-
-### 🗄 Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite)
-
-### 🧰 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge\&logo=eclipse)
-![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge\&logo=visual-studio-code)
-
-</div>
+![Java](https://skillicons.dev/icons?i=java)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 
 ---
 
-# 📂 Projects
+### ⚙️ Frameworks & Backend
+
+![Spring](https://skillicons.dev/icons?i=spring)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
+---
+
+### 🗄 Database
+
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
+
+---
+
+### 🧰 Tools
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Eclipse](https://skillicons.dev/icons?i=eclipse)
+
+---
+
+# 🚀 Projects
 
 ## 🌿 Ignite Well Fitness Website
 
-💻 **Tech:** HTML, CSS, JavaScript, Bootstrap
+💻 Tech: HTML, CSS, JavaScript, Bootstrap
 
 ✨ Features
 
-* Habit tracking wellness platform
-* Interactive UI using JavaScript
-* Responsive design
-* Team collaboration using GitHub
+• Habit tracking wellness platform  
+• Interactive UI using JavaScript  
+• Fully responsive design  
 
 ---
 
 ## 💇 Salon Appointment Booking System
 
-💻 **Tech:** Java, JSP, Servlets, JDBC, MySQL
+💻 Tech: Java, JSP, Servlets, JDBC, MySQL
 
 ✨ Features
 
-* Full-stack web application
-* Secure login system
-* Appointment booking system
-* Admin dashboard
-* MVC architecture
+• Secure Login System  
+• Appointment Booking  
+• Admin Dashboard  
+• MVC Architecture  
 
 ---
 
-# 📊 Contribution Exploring
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=nayanamali&show_icons=true&theme=tokyonight" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="170">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nayanamali&theme=tokyonight" height="170"/>
 
 </div>
 
 ---
 
-<div align="center">
+# 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nayanamali&theme=tokyo-night"/>
 
-</div>
+---
+
+# 🏆 Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanamali&layout=compact&theme=tokyonight"/>
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -127,11 +139,11 @@ Java, Spring Boot, REST APIs, and MVC Architecture.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/nayana-mali-b504a8290/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nayana-mali-b504a8290/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/nayanamali)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/nayanamali)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail)](mailto:malinayana23@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:malinayana23@gmail.com)
 
 </div>
 
@@ -139,6 +151,6 @@ Java, Spring Boot, REST APIs, and MVC Architecture.
 
 <div align="center">
 
-✨ **Always Learning | Always Building | Always Improving**
+⭐ **Always Learning | Always Building | Always Improving**
 
 </div>
